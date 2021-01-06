@@ -32,11 +32,15 @@ $('.swatch').click(function() {
   var desctext = desc[this.id];
  
   
-    $('.hidden').removeClass('hidden');
+  $('.hidden').removeClass('hidden');
   $("#titletext").addClass('textitem');
   $("#bodytext").addClass('textitem');
   
+  $("#info").addClass('hidden');
+  $("#webtitle").removeClass('shimmer');
+  
   $("#titletext").text(idtext);
   $("#bodytext").text(idtext + " " + desctext);
+  
   
 });
