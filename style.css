@@ -44,26 +44,26 @@ svg{
 
 .container {
  
-  margin-left:25%;
+  margin-left:5%;
   
 }
 
 #titletext {
   
-  font-size:9vh;
+  font-size:8vh;
   font-family: 'Roboto', sans-serif;
   
 }
 
 #bodytext {
   
-  font-size:5vh;
+  font-size:4vh;
   font-family: 'Roboto', sans-serif;
   
 }
 
 .toptitle {
-  padding-left:30%;
+  padding-left:10%;
   font-family: 'Merriweather', serif;
   font-size:10vh;
  

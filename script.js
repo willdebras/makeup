@@ -40,5 +40,3 @@ $('.swatch').click(function() {
   $("#bodytext").text(idtext + " " + desctext);
   
 });
-
-
